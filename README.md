@@ -1,4 +1,4 @@
-## Hi! I'm Clarissa Xavier and I'm a FrontEnd Developer student.
+## Hi! I'm Clarissa and I'm a FrontEnd Developer student.
 
 <div align="center">
   <a href="https://github.com/xclarissa">
