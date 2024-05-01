@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,git,redux)](https://skillicons.dev)
 #### Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=sass,typescript,nodejs,nextjs,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,redux,apollo,graphql)](https://skillicons.dev)
 
 #### Tools:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
