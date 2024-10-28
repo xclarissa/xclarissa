@@ -27,13 +27,13 @@
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 ##
 
-#### Como entrar em contato comigo:
+#### How to contact me::
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/clarissaxavier)
 [<img alt="Mail to gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:clarissaxr@gmail.com)
 
 ##
 
-#### Estatísticas:
+#### Statistics:
 <div>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xclarissa&layout=compact&langs_count=7&theme=radical"/>
 </div>
