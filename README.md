@@ -13,7 +13,7 @@
 ##
 #### Currently working with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,git,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,git)](https://skillicons.dev)
 #### Learning:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,redux,apollo,graphql)](https://skillicons.dev)
