@@ -8,7 +8,6 @@
 - 🔰  I'm from Recife/PE, Brazil
 - ⚡ Passionate about Music, Pets, Movies and Technology
 - 🧠 Graduated in Systems Analysis and Development
-- 🏦 Currently work as a Front End Developer at NAGEM, a retail company based in Recife
 
 ##
 #### Currently working with:
