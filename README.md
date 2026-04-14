@@ -19,8 +19,3 @@
 [<img alt="Mail to gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:clarissaxr@gmail.com)
 
 ##
-
-#### Statistics:
-<div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xclarissa&layout=compact&langs_count=7&theme=radical"/>
-</div>
