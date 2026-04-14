@@ -12,19 +12,7 @@
 ##
 #### Currently working with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,git)](https://skillicons.dev)
-#### Learning:
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,redux,apollo,graphql)](https://skillicons.dev)
-
-#### Tools:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
-[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Icone Azuve DevOps" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
-[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
-##
+[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,react,git,css,js)](https://skillicons.dev)
 
 #### How to contact me::
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/clarissaxavier)
